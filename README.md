@@ -1,16 +1,15 @@
-# Expense Tracker App
+# Gym Exercises App
 
-A modern, feature-rich Expense Tracker application built with React. This app helps users add, manage, and analyze their expenses with a clean and user-friendly interface. It includes features like dark mode, a responsive design, and an expense analysis pie chart.
+A feature-rich React application for fitness enthusiasts to search for exercises and view related resources like GIFs and video tutorials. Powered by an external API, this app offers a simple and intuitive way to explore exercises based on user input.
 
 ## Features
-- **Add and Manage Expenses**: Easily add your daily expenses and keep track of them.
-- **Dark Mode Toggle**: Switch between light and dark themes for a personalized experience.
-- **Expense List and Summary**: View all expenses in a detailed list and get a quick summary.
-- **Expense Analysis**: Analyze spending patterns with a dynamic pie chart.
-- **Responsive Design**: Optimized for all devices, including mobile, tablet, and desktop.
+- **Search Exercises**: Find exercises by name or keyword.
+- **Interactive Media**: View related GIFs and video tutorials for each exercise.
+- **User-Friendly Interface**: Clean and responsive design for a seamless user experience.
 
 ## Technologies Used
-- **Frontend**: React, Tailwind CSS
-- **State Management**: React `useState`
-- **Charts**: A library like `react-chartjs-2` (or specify the library you're using).
+- **Frontend**: React, Axios
+- **Styling**: CSS (Responsive design)
+- **API Integration**: External fitness API for exercise data
+
 
